@@ -84,7 +84,6 @@ plt.legend()
 plt.show()
 ```
 ## OUTPUT
-![WhatsApp Image 2022-10-13 at 5 47 38 PM](https://user-images.githubusercontent.com/94165336/195596240-bfbe69c8-50a7-43bb-b1db-ed6a8f12c391.jpeg)
 
 ### True Stock Price, Predicted Stock Price vs time
 
